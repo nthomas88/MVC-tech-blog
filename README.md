@@ -1,2 +1,3 @@
-# MVC-challenge
-Module 14 challenge. h
+# MVC-tech-blog
+Module 14 challenge. 
+
