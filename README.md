@@ -37,4 +37,5 @@
     
 ## Contact Info
 [Github](https://github.com/jotex11)
+[Email](jomill0723@outlook.com)
 

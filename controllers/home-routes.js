@@ -2,7 +2,7 @@ const router = require('express').Router();
 const seqeulize = require('../config/connection');
 const {
     User, Post, Comment
-} = requrie('../models');
+} = require('../models');
 
 router.get('/', (req, res) => {
     Post.findAll({
